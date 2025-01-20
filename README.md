@@ -1,4 +1,4 @@
-inancial Data Analysis using Power BI
+Financial Data Analysis using Power BI
 Overview
 This repository contains a comprehensive analysis of financial and credit card usage data, utilizing Power BI and advanced DAX calculations. The project focuses on analyzing customer behavior, credit risk, and financial performance, providing actionable insights to improve financial management and customer retention.
 
