@@ -41,5 +41,4 @@ Financial_analysis.pbix: Power BI file containing the interactive dashboards.
 Financial Analysis - POWER BI.pdf: Detailed documentation of data cleaning, transformation, and key steps.
 Financial-data/: Includes raw and cleaned datasets used for analysis.
 How to Use
-Clone this repository:
-git clone https://github.com/Nagar2nd/Financial-Analysis-Power-BI.git
+
